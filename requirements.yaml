@@ -1,0 +1,4 @@
+---
+- src: https://github.com/alexp-computematrix/ansible-role-openwrt-firmware.git
+  version: main
+  name: openwrt-firmware
